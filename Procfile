@@ -1,1 +1,1 @@
-web gunicorn app:dejavuapp
+web gunicorn dejavuapp:app
